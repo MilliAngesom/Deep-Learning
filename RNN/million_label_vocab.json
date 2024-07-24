@@ -1,0 +1,10 @@
+{
+    "stoi": {
+        "positive": 0,
+        "negative": 1
+    },
+    "itos": {
+        "0": "positive",
+        "1": "negative"
+    }
+}
